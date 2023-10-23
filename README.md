@@ -15,7 +15,7 @@ Before you can run this React app, make sure you have the following software ins
 1. Clone this repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/FoivosNektariosPanagi/Digital-Business-Card.git
+   git clone https://github.com/FoivosNektariosPanagi/Travel-Journal.git
    ```
 
 2. Change your working directory to the cloned repository:
