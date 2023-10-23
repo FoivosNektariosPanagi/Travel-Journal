@@ -1,0 +1,132 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap");
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+/* navbar start */
+.navbar{
+  background-color: #F55A5A;
+  height: 55px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.nav__planetIcon{
+  width: 24px;
+  height: 24px;
+}
+
+.nav__txt{
+font-family: Inter;
+font-size: 14px;
+font-weight: 500;
+line-height: 18px;
+letter-spacing: -0.075em;
+text-align: left;
+color: #FFFFFF;
+
+}
+
+/* card start */
+.cards__list{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+}
+
+.card{
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  width: 470px;
+
+
+}
+
+.card_img{
+  width: 125px;
+  height: 168px;
+  border-radius: 5px;
+  object-fit: cover;
+
+  
+}
+.card__country{
+  display: flex;
+  gap: 5px;
+  align-items: center;
+}
+
+.card__pinImg{
+  height: 10px;
+  width: 7px;
+  color: #F55A5A;
+ 
+}
+
+.card__countryName{
+  font-family: Inter;
+font-size: 10px;
+font-weight: 400;
+line-height: 12px;
+letter-spacing: 0.17em;
+text-align: left;
+
+}
+
+.card__country_googleLink{
+  font-family: Inter;
+font-size: 10px;
+font-weight: 400;
+line-height: 12px;
+letter-spacing: 0em;
+text-align: left;
+color: #918E9B;
+
+}
+
+.card__countryName{
+  font-family: Inter;
+font-size: 25px;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+color: #2B283A;
+
+}
+.card__dates{
+font-family: Inter;
+font-size: 10px;
+font-weight: 700;
+line-height: 12px;
+letter-spacing: 0em;
+text-align: left;
+color: #2B283A;
+
+}
+.card_description{
+  font-family: Inter;
+font-size: 10px;
+font-weight: 400;
+line-height: 15px;
+letter-spacing: 0em;
+text-align: left;
+color: #2B283A;
+
+}
+
+.card__content{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 5px;
+}
