@@ -1,6 +1,8 @@
 # React App Readme
 
 This repository contains a simple React application "Travel Journal". To run this application locally, follow the instructions below.
+![Travel Journal](https://github.com/FoivosNektariosPanagi/Travel-Journal/assets/26857973/065e3fde-4b84-4a21-8dff-77c0906a2ce2)
+
 
 ## Getting Started
 
